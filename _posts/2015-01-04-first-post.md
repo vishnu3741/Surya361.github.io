@@ -1,8 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Finally!!!
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
-
-This is my first post, how exciting!
+The blogs up YAY!!!
