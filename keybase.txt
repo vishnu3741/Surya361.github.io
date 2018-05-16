@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/suryateja
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sunteja.me
+  * I am suryateja (https://keybase.io/suryateja) on keybase.
+  * I have a public key with fingerprint 58B9 1F78 A839 727A C741  BD48 BF4A E51E F529 518D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014cbcc7cdb8476e0dcc0f6fc9f2b3e5bd8686e1588a0933e45c9f6a5c7756c9860a",
+      "fingerprint": "58b91f78a839727ac741bd48bf4ae51ef529518d",
+      "host": "keybase.io",
+      "key_id": "bf4ae51ef529518d",
+      "kid": "01014cbcc7cdb8476e0dcc0f6fc9f2b3e5bd8686e1588a0933e45c9f6a5c7756c9860a",
+      "uid": "b94ac27fb4cb1ba3671868461591b300",
+      "username": "suryateja"
+    },
+    "service": {
+      "hostname": "sunteja.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526463715,
+  "expire_in": 157680000,
+  "prev": "c0ed5550892fa098c8a20ea02fd6652c64f50ffe5a5ed3838337d3f957114d52",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD4nU1QICqKiB4vFkFJsZndnL0Y9dAoxMaKQQIzD7OzscdV2
+z9mzaiJGkRmJdMPyRi+FEJqBJkUEohYaniLLKCrCTKKiMuiKF7RZuzz12MzD8P/z
+fd///T//7SVxvmR/x5qkm4GKHS/9sf7GMl/BzOxEFafZeiWXVcWV0IWHluo06gZL
+TJ3L4gAEUCQaITLRNUWUJQp0QoAhGUQ1eE2gSNMVSZEoRIqCgSoIVETsS8KIyDKS
+iKpIAHMZnGFaIeqEHdNymSxSNBUasoIVQZV5GRNZhJouKpohYoogNRCvIqjojFhk
+Rz0GM6fhKM00bZZjQXDB3j/w/9l32a86qogJLxsa04QaFiQZMrYoQaRCTQDAA0ap
+Y+H9lKGjZU4ldmkx5qozOJYuNwn1Juu18hdieYBMFmRwYcd2bWKXsnyR64ajWR7P
+rQx7wAqqBX9LBDXT0tkYGaOcOlHTtrgsyJDENT1NiHhJlAQZogyOHgibDg2aHgLJ
+kgLY8erQciZJANURQkBReYO1rhAF84BiwBu6JCGeSKKBgGFQhBHVBYVdQdYFQ0Uy
+hKKOeM5rKmLZTBsynzjk9WOGLOyWOZSrHugrXOzzJ/sS4hd5++VLTlr6Z+tSYom+
+uvnLa535PRfyfU+zX/WNg+EVocnha3pkdDZ0CT98G/eie1t7uHADvzg3/VRkY+u+
+xtXap4ZsI2f5+GjiXGQkbZl262DSQOvzw7k7izJHhiZbvh37EneCu/PliTTMdV8v
+nwsM9Tfz9z9u6guMjfk/xA4dnohL75x6LO+e/tpUO3SmP7/txvEiI1TT9SBwNnNl
+Xf3QKiFpcJQv6Nwb+7o+7V0k/2J1z/nW9zgPnHwtDOZ9nzx6a83gWEnKrjcNLSsL
+P1d1X71zd1Vq4EpXb1Obleqm7tuacDvvCIidO93ZESjZPFXb0/usKvdRjh2PIr3X
+f6zzF2+f3jJT39xe0//+Xoz/CcohTB0=
+=dO9J
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/suryateja
+
+==================================================================
+
